@@ -1,5 +1,5 @@
 # Hi, I'm Krushna 🖐 
-I'm a frontend developer learnt the below mentioned languages and tools at Masai School. I am from Bhubaneswar. Currently I am looking out for good opportunities where i could implement and enhance my learnt skills.
+I'm a frontend developer. I have learnt  frontend languages and tools at Masai School. I am from Bhubaneswar. Currently I am looking out for good opportunities where i could implement and enhance my learnt skills.
 
 ### Languages and Tools:
 <div style="padding-left:20px">
@@ -14,7 +14,7 @@ I'm a frontend developer learnt the below mentioned languages and tools at Masai
 <img align="left" style="padding:15px" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" style="padding:15px" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
-<br/>
+
 ### Connect with me:
 <div style="padding-left:20px">
 <a href="https://github.com/Krush159/">
