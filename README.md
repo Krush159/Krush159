@@ -1,5 +1,5 @@
 # Hi, I'm Krushna 🖐 
-I'm a frontend developer, learnt  frontend languages and tools at Masai School. I am from Bhubaneswar. Currently I am looking out for good opportunities where i could implement and enhance my learnt skills.
+I'm a Full Stack Web Developer, learnt  MERN stack languages and tools at Masai School. I am from Bhubaneswar. Currently I am looking out for good opportunities where i could implement and enhance my learnt skills.
 
 ### Languages and Tools:
 <div style="padding-left:20px">
